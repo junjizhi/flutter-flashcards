@@ -1,6 +1,10 @@
-# jz_flashcards
+# Flutter flashcards
+A simple flashcards app. 
 
-A new Flutter project.
+For details, please read my [Medium article](https://medium.com/@zhijjjj/build-a-flashcard-app-with-flutter-d2e71f47fd4e).
+
+# Screenshots
+![flashcards](https://user-images.githubusercontent.com/2715151/56785061-7b825980-67c1-11e9-8e63-546cd1219f82.gif)
 
 ## Getting Started
 
